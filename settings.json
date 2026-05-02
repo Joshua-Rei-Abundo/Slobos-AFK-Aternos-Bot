@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BroJoGe.aternos.me:52814",
+    "ip": "BroJoGe.aternos.me",
     "port": 52814,
     "version": "1.21.11",
     "try-creative": true
