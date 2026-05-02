@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "catla.aternos.host:11461",
+    "ip": "catla.aternos.host",
     "port": 11461,
     "version": "",
     "try-creative": false
