@@ -9,7 +9,7 @@
     "ip": "BroJoGe.aternos.me:52814",
     "port": 52814,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
